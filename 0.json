@@ -1,0 +1,12 @@
+{
+    "url": "https://asset.jujutsuphanpara.jp/v2/pub/a/1/v/1200/list/0",
+    "headers": {
+        "Host": "asset.jujutsuphanpara.jp",
+        "User-Agent": "UnityPlayer/2021.3.16f1 (UnityWebRequest/1.0, libcurl/7.84.0-DEV)",
+        "Accept-Encoding": "deflate, gzip",
+        "Accept": "application/x-protobuf,x-octo-app/1",
+        "X-OCTO-KEY": "5a1sk2z3u4gwmaa25znc4vesfqhjiw2i",
+        "X-Unity-Version": "2021.3.16f1"
+    },
+    "aeskey": "EE C3 17 AB DA 0B 3B 6D 06 1B B6 E9 7A C6 FE 69 E5 E2 61 4B 22 C4 54 E2 CE 76 75 3D 3A 77 6F A2"
+}
